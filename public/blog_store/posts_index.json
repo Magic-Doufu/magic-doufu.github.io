@@ -8,6 +8,14 @@
         "url": "blog_store/posts/guide/setup-yor-own-blog.md"
     },
     {
+        "id": "test-post2",
+        "section": "normaly",
+        "date": "February 10, 2020",
+        "title": "New awesome blog post title",
+        "description": "Beginning of your new awesome blog post...",
+        "url": "blog_store/posts/normaly/test-post2.md"
+    },
+    {
         "id": "post-with-a-simple-git-commit",
         "section": "guide",
         "date": "February 09, 2020",
@@ -54,5 +62,21 @@
         "title": "Use a custom domain name",
         "description": "TODO WIP",
         "url": "blog_store/posts/guide/use-a-custom-domain-name.md"
+    },
+    {
+        "id": "test-post",
+        "section": "normaly",
+        "date": "February 9, 2019",
+        "title": "just a test post",
+        "description": "TODO WIP Nothing~ just a test post.",
+        "url": "blog_store/posts/normaly/test-post.md"
+    },
+    {
+        "id": "test-post3",
+        "section": "normaly",
+        "date": "February 9, 2019",
+        "title": "just a test post3",
+        "description": "TODO WIP Nothing~ just a test post.",
+        "url": "blog_store/posts/normaly/test-post3.md"
     }
 ]
