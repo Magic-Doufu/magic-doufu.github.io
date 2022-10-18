@@ -67,7 +67,7 @@ jobs:
           git config --local user.email "posts_hook@github.com"
           git config --local user.name "Posts Hook"
           git add .
-          git commit -m "[CI:deploy] deploy_dist job"
+          git commit --allow-empty -m "[CI:deploy] deploy_dist job"
 
       - uses: ad-m/github-push-action@master
         with:
